@@ -44,7 +44,7 @@ const init = function () {
   document.querySelector('.overlay').classList.remove('hidden');
 
   player0Name.textContent = 'PLAYER 1';
-  player1Name.textContent = 'PLAYER 1';
+  player1Name.textContent = 'PLAYER 2';
   getPlayer0Name.value = '';
   getPlayer1Name.value = '';
 };
